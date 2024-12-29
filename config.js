@@ -9,7 +9,7 @@ const fs = require("fs")
 
 //======= Change settings =======\\
 global.owner = ["254799414246"]
-global.botname = ["Arch Md"]
+global.botname = ["Benas md"]
 global.simbol = "♘"
 global.typeMenu = 'v5' //don't change 
 global.anticall = false // set true to turn anticall always on
